@@ -10,7 +10,5 @@
 
 
 ## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://www.picturepunches.com/images/memes/293176.jpg' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=steven4383&icon=0&color=1)](https://visitcount.itsvg.in)
